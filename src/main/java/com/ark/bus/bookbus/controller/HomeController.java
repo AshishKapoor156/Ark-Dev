@@ -58,6 +58,7 @@ public class HomeController {
 		//System.out.println("search controller "+request.getAttribute("Search"));
 		/// System.out.println("Alisa name :" +AlisaPrefix);
 		//List<ListCity> listcity =  (List<ListCity>) Servicecall.ListCityDetails(AlisaPrefix);
+		
 		System.out.println("got the value");
 	//System.out.println(listcity.get(0));
 	// System.out.println(listcity.toString());	 
